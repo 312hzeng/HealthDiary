@@ -1,7 +1,7 @@
 HealthData Project 
 ===
 
-# APP_NAME_HERE
+# HealthDiary
 
 ## Table of Contents
 1. [Overview](#Overview)
