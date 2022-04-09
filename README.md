@@ -1,4 +1,4 @@
-Original App Design Project - README Template
+HealthData Project 
 ===
 
 # APP_NAME_HERE
