@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">wvttmDJOvC28LOYSHHYUKndBJYIqebyd1lGPxL7y</string>
+    <string name="back4app_client_key">aE3zXyXCRo5W5wGHIMe7Ib4YSVcApMNoFL5M1REX</string>
+</resources>
