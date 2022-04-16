@@ -69,7 +69,7 @@ This app records the health data about the users and have warnings when users ha
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://github.com/312hzeng/HealthDiary/blob/master/walkthrough.gif" width=600>
+<img src="https://github.com/312hzeng/HealthDiary/blob/master/walkthrough.gif" height = 600 width=600>
 
 ## Schema 
 [This section will be completed in Unit 9]
