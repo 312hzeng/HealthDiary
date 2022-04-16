@@ -19,10 +19,10 @@ This app records the health data about the users and have warnings when users ha
 [Evaluation of your app across the following attributes]
 - **Category:** Health
 - **Mobile:** Android
-- **Story:** 
+- **Story:** This app records people's health data and shares them on a feed.
 - **Market:** All ages
-- **Habit:** 
-- **Scope:** 
+- **Habit:** This app could be used as often or unoften as the user wanted depending on how often they want to keep track of their health habits, and what exactly they're looking for.
+- **Scope:** : First we would start with pairing people based on their health data, then perhaps this could evolve into a health data sharing application as well to broaden its usage. 
 
 ## Product Spec
 
