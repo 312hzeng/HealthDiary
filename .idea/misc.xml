@@ -3,8 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hongk/AndroidStudioProjects/Diary/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/hongk/AndroidStudioProjects/Diary/app/src/main/res/font/font_res.xml" value="0.14351851851851852" />
         <entry key="..\:/Users/hongk/AndroidStudioProjects/Diary/app/src/main/res/layout/activity_login.xml" value="0.264" />
-        <entry key="..\:/Users/hongk/AndroidStudioProjects/Diary/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/hongk/AndroidStudioProjects/Diary/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/hongk/AndroidStudioProjects/Diary/app/src/main/res/layout/fragment_compose.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/hongk/AndroidStudioProjects/Diary/app/src/main/res/layout/fragment_feed.xml" value="0.264" />
+        <entry key="..\:/Users/hongk/AndroidStudioProjects/Diary/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/hongk/AndroidStudioProjects/Diary/app/src/main/res/layout/item_post.xml" value="0.2" />
+        <entry key="..\:/Users/hongk/AndroidStudioProjects/Diary/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.19074074074074074" />
       </map>
     </option>
   </component>
