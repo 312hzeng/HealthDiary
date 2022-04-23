@@ -33,7 +33,6 @@ This app records the health data about the users and have warnings when users ha
 * users are able to log in and sign up
 * users are able to view their own health data
 * users are able to view others' health data
-* the app will warn the user when the user sleep for less than 5 hours for a day
 * the app will store the user info in a database system
 
 **Optional Nice-to-have Stories**
@@ -41,6 +40,7 @@ This app records the health data about the users and have warnings when users ha
 * simple and neat UI design
 * the app allows user to submit post with images
 * the app allows user to comment on other people's post
+* the app will warn the user when the user sleep for less than 5 hours for a day
 
 ### 2. Screen Archetypes
 
