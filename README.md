@@ -1,13 +1,17 @@
 HealthData Project 
 ===
 
-# HealthDiary
 
 ## Table of Contents
+0. [Demo Video] (#Demo Video)
 1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-2. [Schema](#Schema)
+2. [Product Spec](#Product-Spec)
+3. [Wireframes](#Wireframes)
+4. [Schema](#Schema)
+
+## Demo Video
+
+<img src="https://github.com/312hzeng/HealthDiary/blob/master/demo_vid.gif" height = 600 width=300>
 
 ## Overview
 HealthDiary let the users record their health data(wake up time, bedtime, exercise time, etc) in the main page, after the user submit the data, the data will be stored in a database system.
